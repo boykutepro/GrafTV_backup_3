@@ -1,0 +1,108 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireNetworkActivityLogger (2.4.0):
+    - Alamofire (~> 4.8)
+  - Google-Mobile-Ads-SDK (7.61.0):
+    - GoogleAppMeasurement (~> 6.0)
+  - GoogleAppMeasurement (6.6.1):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (~> 1.30905.0)
+  - GoogleUtilities/AppDelegateSwizzler (6.6.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.6.0):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (6.6.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.6.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.6.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.6.0)"
+  - GoogleUtilities/Reachability (6.6.0):
+    - GoogleUtilities/Logger
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/SDWebImage (1.8.3):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Localize-Swift (2.0.0)
+  - nanopb (1.30905.0):
+    - nanopb/decode (= 1.30905.0)
+    - nanopb/encode (= 1.30905.0)
+  - nanopb/decode (1.30905.0)
+  - nanopb/encode (1.30905.0)
+  - Parchment (2.4.0)
+  - ProgressHUD (2.70)
+  - PromisesObjC (1.2.9)
+  - SDWebImage (5.8.1):
+    - SDWebImage/Core (= 5.8.1)
+  - SDWebImage/Core (5.8.1)
+  - SnapKit (5.0.1)
+  - SVPullToRefresh (0.4.1)
+  - SwiftyJSON (5.0.0)
+  - youtube-ios-player-helper (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireNetworkActivityLogger (~> 2.0)
+  - Google-Mobile-Ads-SDK
+  - ImageSlideshow/SDWebImage (~> 1.8.3)
+  - IQKeyboardManagerSwift
+  - Localize-Swift (~> 2.0)
+  - Parchment
+  - ProgressHUD
+  - SDWebImage (~> 5.0)
+  - SnapKit (~> 5.0.0)
+  - SVPullToRefresh
+  - SwiftyJSON
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityLogger
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleUtilities
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - Localize-Swift
+    - nanopb
+    - Parchment
+    - ProgressHUD
+    - PromisesObjC
+    - SDWebImage
+    - SnapKit
+    - SVPullToRefresh
+    - SwiftyJSON
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireNetworkActivityLogger: 6d3398c692d2c5d83b0c58793537860aca1e383d
+  Google-Mobile-Ads-SDK: 4c3b24b04293b4bb370b2cb392cdd3ee97c87752
+  GoogleAppMeasurement: 2fd5c5a56c069db635c8e7b92d4809a9591d0a69
+  GoogleUtilities: 39530bc0ad980530298e9c4af8549e991fd033b1
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  nanopb: c43f40fadfe79e8b8db116583945847910cbabc9
+  Parchment: 002785473861582385db5c6725165353c500198e
+  ProgressHUD: e603e8b8622c47d8818b9fb38b3cfe9d3e7ca421
+  PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
+  SDWebImage: e3eae2eda88578db0685a0c88597fdadd9433f05
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  youtube-ios-player-helper: 40b96e52c22445f0fdc43731cefa32c67075ff81
+
+PODFILE CHECKSUM: 41f52bcf88a0d8c3ee8a5b0852f2b3969d7e3501
+
+COCOAPODS: 1.9.3
